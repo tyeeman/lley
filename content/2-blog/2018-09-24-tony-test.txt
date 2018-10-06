@@ -1,0 +1,19 @@
+---
+Title: Tony Test
+Published: 2018-09-24
+Author: Tony
+Template: blog
+Tag: Example, Coffee
+---
+Fika is a Swedish custom
+
+It's a social coffee break where people 
+gather to have a cup of coffee or tea together. You can have fika with 
+colleagues at work. You can invite your friends to fika. Fika is such 
+an important part of life in Sweden that it is both a verb and a noun. 
+How often do you fika?
+[--more--]
+
+[youtube cwedXQh-aV8]  
+[youtube COCaq12ClKA]  
+[image picture.jpg "This is an example image"]
