@@ -4,6 +4,6 @@ for = "/*"
 ForceType = "text/html"
 
 [[headers]]
-for = "/*\*"
+for = "/*\.*"
 [headers.values]
 ForceType = "None"
