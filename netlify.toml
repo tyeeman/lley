@@ -1,9 +1,0 @@
-[[headers]]
-for = "/*"
-[headers.values]
-ForceType = "text/html"
-
-[[headers]]
-for = "/*\\\*"
-[headers.values]
-ForceType = "None"
