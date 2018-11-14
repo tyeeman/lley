@@ -19,6 +19,6 @@ collections:
       - {label: "Title", name: "Title", widget: "string"}
       - {label: "Published", name: "Published", widget: "datetime"}
       - {label: "Author", name: "Author", widget: "string"}
-      - {label: "Template", widget: "hidden", default: "blog"}
+      - {label: "Template", name: "Template", widget: "hidden", default: "blog"}
       - {label: "Tag", name: "Tag", widget: "string"}
       - {label: "Body", name: "Body", widget: "markdown"}
