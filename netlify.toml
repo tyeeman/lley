@@ -1,0 +1,9 @@
+[[headers]]
+  for = "/blog/*"
+  [headers.values]
+    Content-Type = "text/html; charset=utf-8"
+
+[[headers]]
+  for = "/about/*"
+  [headers.values]
+    Content-Type = "text/html; charset=utf-8"
