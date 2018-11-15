@@ -1,7 +1,7 @@
 ---
-Title: Blog
-Description: Blog
-Template: blogpages
-TemplateNew: blog
+title: Blog
+description: Blog
+template: blogpages
+templateNew: blog
 ---
 This page is automatically generated. Hello Tony

@@ -1,6 +1,6 @@
 ---
-Title: Sidebar
-Status: hidden
+title: Sidebar
+status: hidden
 ---
 New
 

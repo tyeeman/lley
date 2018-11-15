@@ -1,8 +1,8 @@
 ---
-Title: Netlify Admin Test
-Published: 2018-11-14T07:47:53.330Z
-Author: TP
-Template: blog
-Tag: test
+title: Netlify Admin Test
+published: 2018-11-14
+author: TP
+template: blog
+tag: test
 ---
 Hello TP, this is a test
